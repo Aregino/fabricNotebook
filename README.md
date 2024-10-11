@@ -7,7 +7,7 @@
 
 
 
-## Introdução(#introdução)
+## Introdução
 
 Aqui você encontra Informações referentes a configuração do spark e seu ambiente no Fabric, instalação de bibliotecas e seu uso.
 
